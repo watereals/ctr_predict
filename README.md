@@ -34,3 +34,10 @@ https://github.com/guestwalk/kaggle-avazu
 
 ### TOP5
 http://mech.math.msu.su/~efimov/files/ClickThroughRate2015.pdf
+
+deep-ctr
+https://github.com/wnzhang/deep-ctr
+
+https://github.com/owenzhang/kaggle-avito
+
+https://github.com/breakhearts/ctr

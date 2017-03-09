@@ -38,6 +38,9 @@ http://mech.math.msu.su/~efimov/files/ClickThroughRate2015.pdf
 ### Some
 https://github.com/breakhearts/ctr
 
+谷歌的一篇预测广告点击率的论文： http://www.eecs.tufts.edu/~dsculley/papers/ad-click-prediction.pdf
+https://github.com/BladeMasterCoder/KaggleCTR
+
 ## Avito Context Ad Clicks
 
 Winning solution to the Avito CTR competition
